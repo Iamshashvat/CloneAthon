@@ -11,10 +11,10 @@ Each project have screenshots, gifs and demos, check it out!
 
 # How to use?
 
-Clone repo https://github.com/Iamshashvat/CloneAthon.git
+Clone this repo
 
 ```bash
-git clone
+git clone https://github.com/Iamshashvat/CloneAthon.git
 ```
 
 Each project have their own readme follow the instruction in order to use it.
