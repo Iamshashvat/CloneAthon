@@ -7,11 +7,11 @@ Building top startup websites and webApps clone using MERN Stack!
 This repo have source code of many well known webApps. Some of them are just static clones( pretty basic :) ), some of them have working features(minimal CRUD backend), some of them are fullstack clone.
 Each project have screenshots, gifs and demos, check it out!
 
--I'll update the list soon! //TODO
+- I'll update the list soon! //TODO
 
 # How to use?
 
-Clone repo
+Clone repo https://github.com/Iamshashvat/CloneAthon.git
 
 ```bash
 git clone
