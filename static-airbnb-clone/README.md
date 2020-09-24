@@ -10,6 +10,6 @@ Tried to give a feel of Airbnb home and catalogue page.
 # Screenshots
 
 UI-wise this application looks somewhat like Airbnb early 2020 version!
-(screenshot/Homepage.png)
-(screenshot/Result.png)
-(screenshot/search.png)
+![homepage](screenshot/Homepage.png)
+![resultpage](screenshot/search.png)
+![datepicker](screenshot/Result.png)
