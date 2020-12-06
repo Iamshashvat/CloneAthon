@@ -25,4 +25,4 @@ Learning! Learning! Learning!
 
 # Credits
 
-Big credit to CleverProgrammer team, those guys are DOPE!
+Big credit to CleverProgrammer team!
